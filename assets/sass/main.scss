@@ -1,0 +1,28 @@
+//main.scss #manifest file
+
+//abstracts
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+
+// base
+@import 'base/base';
+@import 'base/reset';
+@import 'base/typography';
+
+// Layout
+@import 'layout/header';
+@import 'layout/nav';
+@import 'layout/article';
+@import 'layout/footer';
+@import 'layout/main';
+@import 'layout/section';
+
+
+//components
+@import 'components/buttons';
+@import 'components/inputs';
+
+//pages
+
+//themes

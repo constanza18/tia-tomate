@@ -1,0 +1,167 @@
+body {
+  background-color: #FFF;
+}
+
+/* Reset*/
+body {
+  margin: 0;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+h1 h2 h3 h4 h5 h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+header {
+  background-color: #E56353;
+  text-align: center;
+  color: #FFF;
+  padding: 13%;
+}
+
+.header__title {
+  font-weight: 200;
+  font-size: 100px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header__title2 {
+  font-weight: 700;
+  font-size: 70px;
+}
+
+nav {
+  background-color: #FFF;
+}
+
+.logo__header {
+  width: 30vw;
+  padding: 10px 10px;
+}
+
+article {
+  background-color: #E56353;
+  text-align: center;
+  color: #FFF;
+  padding: 1rem;
+}
+
+.article__text {
+  font-weight: 700;
+  font-size: 70px;
+}
+
+footer {
+  background-color: #686963;
+  text-align: center;
+  padding: 3rem;
+}
+
+.logo__footer {
+  width: 15vw;
+}
+
+main {
+  background-color: #91918D;
+  padding: 5% 10%;
+  color: #FFF;
+  text-align: center;
+}
+
+.main_image {
+  width: 100%;
+}
+
+.main__tittle {
+  font-weight: 700;
+  font-size: 50px;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.main__texto {
+  font-weight: 400;
+  font-size: 18px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.tomates {
+  background-color: #FAFAFA;
+  padding: 5% 10%;
+  color: #686963;
+  text-align: center;
+}
+
+.tomates__image {
+  width: 100%;
+}
+
+.tomates__tittle {
+  font-weight: 700;
+  font-size: 50px;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.tomates__texto {
+  font-weight: 400;
+  font-size: 18px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.nosotros {
+  background-color: #FAFAFA;
+  padding: 5% 10%;
+  color: #686963;
+  text-align: center;
+}
+
+.nosotros__image {
+  width: 30%;
+}
+
+.nosotros__tittle {
+  font-weight: 700;
+  font-size: 50px;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.nosotros__texto {
+  font-weight: 400;
+  font-size: 18px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.button {
+  background-color: #E56353;
+  text-align: center;
+  color: #FFF;
+}
+
+.button__tittle {
+  font-weight: 700;
+  font-size: 70px;
+}
+
+.article__button {
+  background-color: #FFF;
+  width: 300px;
+  height: 60px;
+  color: #91918D;
+  border-radius: 20px;
+}
+
+.button__text {
+  font-weight: 700;
+  font-size: 70px;
+}
+
+/*# sourceMappingURL=main.css.map */

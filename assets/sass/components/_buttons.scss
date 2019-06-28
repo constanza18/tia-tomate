@@ -1,0 +1,26 @@
+.button{
+	background-color: $jelly-bean;
+	text-align: center;
+	color: $white;
+	
+}
+
+.button__tittle{
+	font-weight: $bold;
+	font-size: $x-large;
+
+}
+
+.article__button{
+	background-color: $white;
+	width: 300px;
+	height: 60px;
+	color: $taupe-gray;
+	border-radius: 20px;
+
+}
+
+.button__text{
+	font-weight: $bold;
+	font-size: 70px;
+}
